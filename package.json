@@ -4,7 +4,7 @@
   "description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/kuldeep230/order-summary-component-FM/issues"
   },
-  "homepage": "https://github.com/kuldeep230/order-summary-component-FM#readme",
+  "homepage": "https://kuldeep230.github.io/order-summary-component-FM",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
