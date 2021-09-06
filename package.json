@@ -1,0 +1,23 @@
+{
+  "name": "order-summary-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeep230/order-summary-component-FM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeep230/order-summary-component-FM/issues"
+  },
+  "homepage": "https://github.com/kuldeep230/order-summary-component-FM#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
